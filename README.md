@@ -43,7 +43,7 @@ Ensure the following dependencies are installed:
 
 ## 📘 Complete Tutorial
 Watch the complete setup tutorial here:  
-[YouTube Tutorial]([https://www.youtube.com/](https://www.youtube.com/watch?v=QXH8ashoA7k))
+[YouTube Tutorial]([https://www.youtube.com/watch?v=QXH8ashoA7k])
 
 ---
 
