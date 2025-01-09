@@ -48,4 +48,4 @@ Watch the complete setup tutorial here:
 ---
 
 ## 👥 Team
-This project is brought to you by **MORSE CODER**.
+This project is brought to you by **MORSECODERS**.
